@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" viewBox="0 0 500 500">
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 500 500">
+  <title>Krimitas Solutions Logo</title>
   <rect width="500" height="500" fill="#ffffff"/>
   <defs>
     <radialGradient id="g1" cx="0.5" cy="0.4" r="0.7" gradientUnits="objectBoundingBox">
